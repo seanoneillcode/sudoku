@@ -23,6 +23,7 @@ func NewGame() *Game {
 }
 
 func (r *Game) Update() error {
+	r.board.Update()
 	return nil
 }
 

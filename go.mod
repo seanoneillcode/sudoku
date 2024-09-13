@@ -3,7 +3,7 @@ module github.com/seanoneillcode/sudoku
 go 1.22.6
 
 require (
-	github.com/hajimehoshi/ebiten/v2 v2.7.8
+	github.com/hajimehoshi/ebiten/v2 v2.7.9
 	github.com/seanoneillcode/smallgamekit v0.2.0
 )
 
